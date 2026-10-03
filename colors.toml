@@ -1,0 +1,39 @@
+# ACCEPT ALL — phosphor green on ink, amber as the second voice.
+# Terminal-native: the palette of the brand (wearacceptall.com).
+
+mode = "dark"
+
+accent = "#39FF14"
+selection = "#123A0A"
+muted = "#3E4A38"
+
+background = "#0D0D0D"
+dark_background = "#090909"
+darker_background = "#050505"
+lighter_background = "#161616"
+
+foreground = "#E8E6DA"
+dark_foreground = "#6E6E62"
+light_foreground = "#F2F2EC"
+bright_foreground = "#FBFBF6"
+
+hyprland_active_border = "rgba(39ff14ee) rgba(18a806ee) 45deg"
+hyprland_inactive_border = "rgba(1d2a19aa) rgba(141a12aa) 45deg"
+
+# ANSI: green is the loud one, amber the warm counterpoint; the rest stay
+# deliberately desaturated so the phosphor always wins.
+red = "#E06060"
+yellow = "#FFB000"
+orange = "#F08A3C"
+green = "#39FF14"
+cyan = "#6FD4B4"
+blue = "#86A3BE"
+magenta = "#B295BE"
+brown = "#8A7A4F"
+
+bright_red = "#EE8A8A"
+bright_yellow = "#FFC94F"
+bright_green = "#7CFF5E"
+bright_cyan = "#95E8CE"
+bright_blue = "#A4BDD4"
+bright_magenta = "#C9B1D2"
